@@ -4,7 +4,7 @@ MMParallaxCell
 [![CocoaPods](https://img.shields.io/cocoapods/p/MMParallaxCell.svg)]()
 [![CocoaPods](https://img.shields.io/cocoapods/l/MMParallaxCell.svg)]()
 
-A subclass of UITableViewCell to present the parallax effect. MMParallaxCell is a drop-in solution, basically you don't need to configure anything, but also you can customize it youself. 
+A subclass of UITableViewCell to present the parallax effect. MMParallaxCell is a drop-in solution, basically you don't need to configure anything, but also you can customize it yourself. 
 
 Besides, you don't have to add additional codes in UITableView's Delegate Method, use it as natural as UITableViewCell :)
 
